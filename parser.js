@@ -6,7 +6,7 @@ import { MongoClient } from 'mongodb';
 const url = 'https://kadikama.com/page/';
 const cartoonsLinks = [];
 let count = 1;
-const mongoUrl = "mongodb://mongodb:27017";
+const mongoUrl = "HERE_YOUR_DATABASE_IP:27017";
 const dbName = "kadikama";
 
 console.time('fetchCartoons');
