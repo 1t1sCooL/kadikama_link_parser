@@ -1,5 +1,5 @@
-# kadikama_link_parser
-<h1>A parser for collecting links to cartoons on the site kadikama.com</h1> 
+ <h1>Kadikama Link Parser</h1>
+<h2>A parser for collecting links to cartoons on the site kadikama.com</h2> 
 
 <p>The parser goes through each page and collects unique links to cartoons.</p>
 
