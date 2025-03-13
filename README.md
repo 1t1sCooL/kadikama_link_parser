@@ -1,17 +1,19 @@
 # kadikama_link_parser
-A parser for collecting links to cartoons on the site kadikama.com 
+<h1>A parser for collecting links to cartoons on the site kadikama.com</h1> 
 
-The parser goes through each page and collects unique links to cartoons.
+<p>The parser goes through each page and collects unique links to cartoons.</p>
 
-This information will be sent to the MongoDB database and saved in a JSON file.
+<p>This information will be sent to the MongoDB database and saved in a JSON file.</p>
 
-Then, these links will be processed by the next parser to collect specific information.
+<p>Then, these links will be processed by the next parser to collect specific information.</p>
 
-This information will be provided in the form of a public API, from which the ReactJS page will then be rendered.
+<p>This information will be provided in the form of a public API, from which the ReactJS page will then be rendered.</p>
 
-There will be several scripts in the project.:
+<h3>There will be several scripts in the project.:</h3>
+<ul>
+  <li>The Link Parser</li>
+  <li>The parser is based on these links</li>
+  <li>The server for creating the API</li>
+  <li>The page on React.</li>
+</ul>
 
-The Link Parser
-The parser is based on these links
-The server for creating the API
-The page on React.
